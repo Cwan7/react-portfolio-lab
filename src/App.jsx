@@ -12,6 +12,7 @@ const myProjects = [
   { name: 'Buttons Web Page', framework: 'Vanilla JavaScript', completed: true }, // Fixed typo
   { name: 'Memory Game', framework: 'Express', completed: true },
   { name: 'Project 3', framework: 'React', completed: false },
+  { name: 'Project 4', framework: 'TBD', completed: false },
 ];
 
 const containerDiv = { 
